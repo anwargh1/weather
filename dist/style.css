@@ -1,0 +1,87 @@
+#main{
+    font-family: cursive;
+    background-color: rgb(153, 153, 203);
+}
+body{
+    margin: 24px;
+    width: 60%;
+}
+#search {
+    border-radius: 13px;
+    box-shadow: 2px 1px 10px #ccc4c4;
+    font-weight: bold;
+    font-size: 14px;
+    font-family: cursive;
+    width: 47px;
+    height: 35px;
+}
+    
+
+#save{
+    background-color: #ccc4c4;
+    border-radius: 30px;
+    color: rgb(153, 153, 203);
+}
+
+#save{
+    background-color: #ccc4c4;
+    border-radius: 30px;
+    color: rgb(153, 153, 203);
+}
+
+
+input[type=text] {
+    border: none;
+    border-bottom: 4px solid #000000;
+    width: 56%;
+    font-size: 25px;
+    color: white;
+    background-color: #9d96cb;
+    margin: 39px;
+}
+ 
+
+ input::placeholder{
+    color: rgb(252, 252, 252);
+    font-weight: bold;
+    font-family: cursive;
+  }
+#main2{
+    margin-left: 46px;
+    margin-top: 10%;
+    font-size: 24px;
+   
+}
+
+#cond{
+    margin-left: 31px;
+    margin-bottom: 16px;
+}
+#main1{
+    margin-left: 14px;
+    margin-top: 14%;
+}
+
+#main3{
+    margin-left: 14px;
+    margin-top: 5%;
+}
+
+#weather-item{
+    display: inline-flex;
+    box-shadow: 1px 3px 12px white;
+    margin: 28px;
+    flex-wrap: wrap;
+}
+
+img{
+    margin-bottom: -22px;
+}
+
+#display-data{
+    display: inline-grid;
+}
+
+#name{
+    margin-bottom: 15px;
+}
